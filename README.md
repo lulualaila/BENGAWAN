@@ -1,2 +1,2 @@
 # BENGAWAN
-some things from my Benngawan UV 2025 internship.
+some things from my Bengawan UV 2025 internship.
